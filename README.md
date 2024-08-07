@@ -10,7 +10,7 @@
 6. [License](#license)
 
 ## Introduction
-Welcome to the **Low Tech Retail Sensor** repository! This project is designed to...
+Project **Low Tech Retail Sensor** designed to create data based on low cost and low risk
 
 ![Intro Image](./images/fogsensor.png)
 
@@ -22,7 +22,7 @@ Welcome to the **Low Tech Retail Sensor** repository! This project is designed t
 ![Components](./images/total-II.jpg)
 ![Components](./images/arduino.jpg)
 ![Components](./images/sdclock.jpg)
-![Components](./images/sensor.jpg)
+![Components](./images/hcsensor.jpg)
 ![Components](./images/fusion.jpg)
 ![Components](./images/bambu.jpg)
 ![Components](./images/box-II.jpg)
