@@ -30,9 +30,7 @@ Project **Low Tech Retail Sensor** designed to create data based on low cost and
 To use this project, follow these steps:
 
 1. Assemble the components according to 
-    ```sh
-![Assemble Image](https://www.aranacorp.com/en/read-and-write-on-a-sd-card-with-arduino)
-    ```
+[Assemble Image](https://www.aranacorp.com/en/read-and-write-on-a-sd-card-with-arduino)
 2. Open your browser and navigate to `http://localhost:3000`.
 
 
