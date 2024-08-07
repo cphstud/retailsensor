@@ -33,6 +33,8 @@ To use this project, follow these steps:
 2. Remember to format the sd-card FAT32.
 3. Remember to check if the date is correct
 4. Place the sensor within a range of up to 2 meters.
+5. Prototyping with lego
+![Lego](./images/legosensor.png)
 
 ## Analysis
 To use the data on the card
