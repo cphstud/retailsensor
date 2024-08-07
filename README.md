@@ -22,7 +22,7 @@ Project **Low Tech Retail Sensor** designed to create data based on low cost and
 ![Components](./images/total-II.jpg)
 ![Components](./images/arduino.jpg)
 ![Components](./images/sdclock.jpg)
-![Components](./images/hcsensor.png)
+![Components](./images/hcsensor.jpg)
 ![Components](./images/fusion360.jpg)
 ![Components](./images/bambu.jpg)
 ![Components](./images/box-II.jpg)
