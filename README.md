@@ -1,10 +1,9 @@
 # Low Tech Sensor in retail
 
-![Project Logo](./images/fogsensor.png)
+![Project Logo](./images/box-II.jpg)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
-3. [Creation](#installation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [License](#license)
@@ -22,36 +21,20 @@ Project **Low Tech Retail Sensor** designed to create data based on low cost and
 ![Components](./images/total-II.jpg)
 ![Components](./images/arduino.jpg)
 ![Components](./images/sdclock.jpg)
-![Components](./images/hcsensor.jpg)
+![Components](./images/hcsensorII.jpg)
 ![Components](./images/fusion360.jpg)
 ![Components](./images/bambu.jpg)
 ![Components](./images/box-II.jpg)
 
-## Creation
-To create this project, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/cphstud/retailsensor.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd project-title
-    ```
-3. Install dependencies:
-    ```sh
-    ```
-
 ## Usage
 To use this project, follow these steps:
 
-1. Start the application:
+1. Assemble the components according to 
     ```sh
-    npm start
+![Assemble Image](https://www.aranacorp.com/en/read-and-write-on-a-sd-card-with-arduino)
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
-![Usage Image](https://via.placeholder.com/800x400)
 
 
 ---
