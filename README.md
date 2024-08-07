@@ -1,4 +1,4 @@
-# Project Title
+# Low Tech Sensor in retail
 
 ![Project Logo](./images/fogsensor.png)
 ## Table of Contents
