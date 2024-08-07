@@ -4,9 +4,8 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Usage](#usage)
+4. [Analysis](#analysis)
 
 ## Introduction
 Project **Low Tech Retail Sensor** designed to create data based on low cost and low risk
@@ -30,10 +29,16 @@ Project **Low Tech Retail Sensor** designed to create data based on low cost and
 To use this project, follow these steps:
 
 1. Assemble the components according to 
-[Assemble Image](https://www.aranacorp.com/en/read-and-write-on-a-sd-card-with-arduino)
-2. Open your browser and navigate to `http://localhost:3000`.
+[Assemble hw-203](https://www.aranacorp.com/en/read-and-write-on-a-sd-card-with-arduino)
+2. Remember to format the sd-card FAT32.
+3. Remember to check if the date is correct
+4. Place the sensor within a range of up to 2 meters.
 
+## Analysis
+To use the data on the card
 
+1. Load the file into RStudio
+2. Use ARIMA to detect patterns
 
 ---
 
